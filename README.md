@@ -28,4 +28,4 @@ The system takes user input (Name and Roll Number) and then starts a quiz based 
 
 ### Step 1: Compile the code
 ```bash
-g++ main.cpp -o quiz
+c++ main.cpp -o quiz
