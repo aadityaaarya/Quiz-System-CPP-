@@ -1,0 +1,46 @@
+ ****************
+                 QUIZ SYSTEM
+                **************
+                Enter name: aliya
+                Roll no: 123
+      C++ QUIZ
+1) Which of the following is called insertion/put to operator
+a) <
+b) >
+c) <<
+d) >>
+Your answer is incorrect
+2) A language which has the capability to generate new data
+a) Extensible
+b) Overloaded
+c) Encapsulated
+d) Reprehensible
+Your answer is incorrect
+3) which of the following is used for comments in c++?
+a) // comment
+b) /* comment */
+c) both // comment or /* comment */
+d) // comment */
+Your answer is incorrect
+4) which of the following is called address operator?
+a) *
+b) &
+c) _
+d) %
+Your answer is incorrect
+5) Who created c++?
+a) Bjarne Stroustrup
+b) Dennis Ritchie
+c) Ken Thompson
+d) Brian Kernighan
+student name: aliya
+Roll no: 123
+Marks: 0 out of 6
+percentage: 0%
+status: Fail
+press y to continue or any key to terminate
+
+ ****************
+                 QUIZ SYSTEM
+                **************
+                Enter name:
